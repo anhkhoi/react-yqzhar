@@ -6,7 +6,7 @@ import './style.css';
 class App extends Component {
   constructor() {
     super();
-    console.log('test12')
+    console.log('stackblitz')
     this.state = {
       name: 'React'
     };
